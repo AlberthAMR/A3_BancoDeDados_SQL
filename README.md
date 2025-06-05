@@ -29,7 +29,7 @@ Livia Steise Gaspar Diniz
 ## 📂 Arquivos
 
 - `banco.sql`: Contém todas as instruções `CREATE TABLE` e `INSERT INTO` com os dados iniciais.
-- `diagrama.png`: (opcional) Imagem com o diagrama ER do banco de dados.
+- `diagrama.png`: Imagem com o diagrama ER do banco de dados.
 
 ## 📝 Exemplo de uso
 
